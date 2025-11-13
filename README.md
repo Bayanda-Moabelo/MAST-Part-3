@@ -121,7 +121,7 @@ function calculateAveragePrice(menuItems: MenuItem[]) {
 ## 🎥 Demo Video
 A screen recording with voice-over showcasing all app features has been provided.
 
-**Video Link:** [Insert your recording link here]  
+**Video Link:** 
 **GitHub Repository:** https://github.com/Bayanda-Moabelo/MAST-Part-3/edit/main/README.md
 
 ---
